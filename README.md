@@ -2,10 +2,10 @@
 
 ## 🛠️ Tools
 
-| Tool                   | Purpose                                               | Location            |
-| ---------------------- | ----------------------------------------------------- | ------------------- |
-| 🏷️ **Plastic Plaques** | Durable barcodes → `https://ft.thelogicchurch.org/hq` | With ushers         |
-| 📄 **Paper Cards**     | Fallback for non-scanners                             | Follow-up team only |
+| Tool                 | Purpose                                               | Location            |
+| -------------------- | ----------------------------------------------------- | ------------------- |
+| 🏷️ **Plastic Cards** | Durable barcodes → `https://ft.thelogicchurch.org/hq` | With ushers         |
+| 📄 **Paper Cards**   | Fallback for non-scanners                             | Follow-up team only |
 
 ---
 
@@ -36,7 +36,7 @@
 1. 🚶♂️ Ushers approach identified first-timers
 2. 🤝 Hand **plaque** to each first-timer
 3. 📱 First-timers scan → form opens automatically
-4. 🏷️ Plaques stay with first-timers until reception
+4. 🏷️ Plastic cards stay with first-timers until reception
 
 ---
 
@@ -60,7 +60,7 @@
 
 ### Follow-up Team Actions:
 
-1. 🔄 **Collect plaques** from first-timers
+1. 🔄 **Collect plastic cards** from first-timers
 2. ✅ **Verify** form completion status
 3. 📄 **Use paper cards** for incomplete entries
 4. 🎁 **Ensure** all receive welcome materials
@@ -72,7 +72,7 @@
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    🛠️  TOOLS                        │
-│  🏷️ Plaques Ready    📄 Paper Cards Ready    📺 Screen Ready    │
+│  🏷️ Plastic cards Ready    📄 Paper Cards Ready    📺 Screen Ready    │
 └─────────────────────┬───────────────────────────────────────────┘
                       │
                       ▼
@@ -112,10 +112,49 @@
                       ▼
 ┌─────────────────────────────────────────────────────────────────┐
 │                🤝 FIRST-TIMERS RECEPTION                        │
-│  🔄 Collect plaques  ✅ Verify completion  📄 Paper fallback     │
+│  🔄 Collect plastic cards  ✅ Verify completion  📄 Paper fallback     │
 │                🎁 Give welcome materials                        │
 └─────────────────────────────────────────────────────────────────┘
 ```
+
+## 📌 Benifits of Moving from Paper to Digital Form (Barcode)
+
+### 1. **Faster data collection && Efficiency**
+
+- **Instant access** – Barcodes open the form instantly on a smartphone.
+
+### 2. **Accuracy & Data Quality**
+
+- **No handwriting errors** – Digital forms ensure clear, standardized data without struggling to read someone’s handwriting.
+- **Mandatory fields** – Forms can require key details (phone, email) before submission, reducing incomplete records.
+
+### 3. **Seamless Follow-Up**
+
+- **Automatic integrations** – Submitted data trigger instant actions:
+  - A **welcome SMS**
+  - A **digital brochure**
+  - Other subsequent automations
+- **Faster contact** – Follow-up can begin within minutes, while the experience is still fresh for the visitor.
+
+### 4. **Cost & Sustainability**
+
+- **Lower printing costs** – Eliminates regular paper card printing and storage.
+- **Environment-friendly** – Reduces paper waste and aligns with sustainable practices.
+
+### 5. **Professional & Modern Impression**
+
+- **Tech-friendly experience** – Using QR/barcode scanning gives first-timers the impression of a modern, organized, and tech-aware church.
+
+### 6. **Scalability**
+
+- **Handles high attendance easily** – Even if a large number of first-timers attend (eg. JPNC Sunday), the process is smoother.
+
+### 7. **Data Tracking & Engagement Insights**
+
+- **Ongoing engagement tracking** – Enables monitoring of follow-up actions such as:
+  - LFC registration (LFC registration now happens on the website, so tracking is easy)
+  - Website interactions and resource downloads
+- **Informed follow-up** – We can see not just who visited, but how they’re engaging over time.
 
 <!-- ---
 
@@ -123,9 +162,9 @@
 
 | Phase             | Key Action            | Responsible    | Tools Needed   |
 | ----------------- | --------------------- | -------------- | -------------- |
-| **🛠️ Setup**      | Prepare tools         | Ushers/Tech    | Plaques, Cards |
+| **🛠️ Setup**      | Prepare tools         | Ushers/Tech    | Plastic cards, Cards |
 | **🎤 Announce**   | Identify first-timers | Papa           | Screen display |
-| **👥 Distribute** | Give plaques          | Ushers         | Plaques        |
+| **👥 Distribute** | Give plastic cards          | Ushers         | Plastic cards        |
 | **📝 Capture**    | Scan & fill           | First-timers   | Phones         |
 | **🤝 Reception**  | Collect & verify      | Follow-up team | Paper cards    | -->
 
